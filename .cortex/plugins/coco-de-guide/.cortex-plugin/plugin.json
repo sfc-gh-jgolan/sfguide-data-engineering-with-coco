@@ -1,0 +1,9 @@
+{
+  "name": "coco-de-guide",
+  "version": "1.0.0",
+  "description": "Data engineering guide plugin for the sfguide-data-engineering-with-coco project",
+  "author": "Jonathan Golan",
+  "skills": ["./skills"],
+  "agents": ["./agents"],
+  "hooks": "./hooks/hooks.json"
+}

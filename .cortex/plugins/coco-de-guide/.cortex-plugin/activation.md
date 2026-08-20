@@ -1,0 +1,1 @@
+The coco-de-guide plugin provides skills, subagents, and hooks for the sfguide-data-engineering-with-coco project. It includes workflows for creating dbt models, running builds, and enforcing project conventions defined in AGENTS.md.
